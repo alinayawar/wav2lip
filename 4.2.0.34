@@ -1,5 +1,0 @@
-Collecting opencv-contrib-python
-  Using cached opencv_contrib_python-4.6.0.66-cp36-abi3-win_amd64.whl (42.5 MB)
-Requirement already satisfied: numpy>=1.17.3 in c:\users\toshiba\downloads\wav2lip-master\wav2lip-master\venv\lib\site-packages (from opencv-contrib-python) (1.23.2)
-Installing collected packages: opencv-contrib-python
-Successfully installed opencv-contrib-python-4.6.0.66
